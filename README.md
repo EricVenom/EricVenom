@@ -9,7 +9,7 @@
 
 ```javascript
 const eric = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Redux, Node, PostgreSQL, Styled-Components],
   architecture: ["microservices", "event-driven", "design system pattern"],
