@@ -11,7 +11,7 @@
 const eric = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Redux, Node, PostgreSQL, Styled-Components],
+  tools: [React, NodeJs, NextJs, PostgreSQL, MongoDB, MUI],
   architecture: ["microservices", "event-driven", "design system pattern"],
  aboutMe: "Desenvolvedor Fullstack com foco em Front-end",
  challenge: "Aperfeiçoando técnica de Functional Programming com Javascript e Typescript."
