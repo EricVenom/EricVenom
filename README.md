@@ -14,6 +14,6 @@ const eric = {
   tools: [React, Redux, Node, PostgreSQL, Styled-Components],
   architecture: ["microservices", "event-driven", "design system pattern"],
  aboutMe: "Desenvolvedor Fullstack com foco em Front-end",
- challenge: "Atualmente aprendendo Typescript para Angular."
+ challenge: "Aperfeiçoando técnica de Functional Programming com Javascript e Typescript."
 }
 ```
