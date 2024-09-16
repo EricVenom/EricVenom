@@ -11,8 +11,7 @@
 const eric = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, Python, C++, Java],
-  tools: [React, NodeJs, NextJs, PostgreSQL, MongoDB, MUI, Linux],
-  aboutMe: "intj, 'cat person', disciplinado, gamer, auto-didata, criativo",
-  challenge: "Atualmente estudando conceitos de Engenharia de Dados no estágio da Compass UOL (Data & Analytics - AWS)"
+  tools: [Spring Boot, React, NodeJs, NextJs, AWS, PostgreSQL, MongoDB, MUI, Linux],
+  aboutMe: "intj, 'cat person', disciplinado, gamer, auto-didata, criativo"
 }
 ```
